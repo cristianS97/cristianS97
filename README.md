@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cristianS97
 - 👀 I’m interested in Python, Machine Learning, IA, BioInformatics
-- 🌱 I’m currently learning PowerBI and MAths for Data Science
+- 🌱 I’m currently learning PowerBI and Maths for Data Science
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me ...
 
